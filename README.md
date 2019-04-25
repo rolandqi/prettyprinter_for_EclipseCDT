@@ -1,2 +1,0 @@
-# prettyprinter_for_EclipseCDT
-prettyprinter for EclipseCDT
